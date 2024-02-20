@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ManejoDeCard</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="hamburger">Hamburguesa</string>
+    <string name="pizza">Pizza Familiar</string>
+    <string name="postre">Ricos postres</string>
+    <string name="pozole">Pozole</string>
+    <string name="tacos">Tacos variados</string>
+</resources>
